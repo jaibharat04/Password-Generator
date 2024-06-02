@@ -1,4 +1,4 @@
-# Password generator using React JS and Tailwind CSS
+# Password Generator using React JS and Tailwind CSS
 
 This is the Password Generator
 
