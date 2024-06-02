@@ -1,6 +1,6 @@
-# React + Vite
+# Password generator using React JS and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the Password Generator
 
 Currently, two official plugins are available:
 
